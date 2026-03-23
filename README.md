@@ -2,7 +2,6 @@
 
 **MSc in Applied Statistical Modelling & Health Informatics** · King's College London (IoPPN/BHI)  
 Research: Clinical NLP · Multimodal EHR Fusion · Health Informatics  
-Supervisors: Dr. Linglong Qian & Dr. Zina Ibrahim · BSc Computer Science, University of Leeds
 
 ---
 
@@ -17,18 +16,6 @@ Evaluated 6 vision-language models across 15,408 assessments with 250-sample hum
 → [github.com/haoyu-haoyu/HalluCXR](https://github.com/haoyu-haoyu/HalluCXR)
 
 ---
-
-### 🛠 Original Projects
-
-| Project | Description |
-|---------|-------------|
-| [Multi-AI-Workflow](https://github.com/haoyu-haoyu/Multi-AI-Workflow) | Multi-agent AI workflow orchestration framework · TypeScript · ⭐ 178 |
-| [stata-ai-fusion](https://github.com/haoyu-haoyu/stata-ai-fusion) | MCP Server + VS Code Extension + 5,600-line knowledge base for AI-powered Stata analysis · Published on PyPI & VS Code Marketplace |
-| [BibCheck](https://github.com/haoyu-haoyu/BibCheck) | MCP server for BibTeX reference validation |
-| [Scientific-Writing-Skill](https://github.com/haoyu-haoyu/Scientific-Writing-Skill) | Academic writing standards skill for Claude Code |
-
----
-
 ### 🌐 Open-Source Contributions
 
 **Healthcare AI / EHR Systems**  
