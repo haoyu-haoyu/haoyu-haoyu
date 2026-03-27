@@ -23,14 +23,17 @@ This project evaluates six VLMs and explores ensemble-based mitigation strategie
 
 ### Technical Focus
 
-**Languages**  
-`Python` `R` `SQL` `TypeScript`
+**Technical Areas**  
+`Clinical NLP` `Multimodal Learning` `Time-series Modelling` `Trustworthy AI` `EHR Representation Learning`
 
-**ML / Clinical AI**  
-`PyTorch` `Transformers` `XGBoost` `scikit-learn` `spaCy` `Clinical NLP` `Multimodal Learning`
+**Tools & Frameworks**  
+`PyTorch` `Transformers` `XGBoost` `scikit-learn` `spaCy`
 
-**Clinical Data / Infrastructure**  
-`MIMIC-III/IV` `OMOP CDM` `FHIR` `SNOMED CT` `DICOM` `Docker` `SLURM/HPC`
+**Programming**  
+`Python` `R` `SQL` `TypeScript` `Go` `Shell`
+
+**Clinical Data & Infrastructure**  
+`MIMIC-III/IV` `OMOP CDM` `FHIR` `DICOM` `Docker` `SLURM/HPC`
 
 ---
 
