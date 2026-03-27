@@ -1,32 +1,41 @@
 ## Haoyu Wang (王浩宇)
 
-**MSc in Applied Statistical Modelling & Health Informatics** · King's College London (IoPPN/BHI)  
-Research: Clinical NLP · Multimodal EHR Fusion · Health Informatics  
+MSc in Applied Statistical Modelling & Health Informatics at King's College London  
+Research interests: Clinical NLP, multimodal EHR learning, trustworthy health AI, and benchmark design.
 
 ---
 
-### 📄 Research
+### Research
 
-**TIMELY-Bench** — Time-aware clinical benchmark platform for ICU predictive modelling `Under review, HealTAC 2026`  
-Built on MIMIC-IV (74,829 ICU stays, 32 clinical patterns across AKI/Delirium/Sepsis-to-shock/Stroke-proxy/ARF). Proposed a 2×2 leakage decomposition framework demonstrating structured leakage contributes >99% AUROC inflation. Designed DocTimeRel-based pattern-text alignment with ClinicalBERT embeddings and a note-centred evaluation paradigm. 91–113 experiments on KCL CREATE HPC.  
-→ [github.com/haoyu-haoyu/TIMELY-Bench](https://github.com/haoyu-haoyu/TIMELY-Bench) *(repo available upon paper acceptance)*
+**TIMELY-Bench**  
+A time-aware clinical benchmark for multimodal ICU prediction using MIMIC-IV.  
+This project studies temporal alignment, structured–text fusion, and data leakage in clinical prediction pipelines, with experiments conducted on KCL CREATE HPC.  
+*Submitted to HealTAC 2026*  
+→ Code repository will be released after publication.
 
-**HalluCXR** — VLM hallucination benchmark for chest radiograph interpretation `Under review, CVPR 2026 AI4RWC Workshop`  
-Evaluated 6 vision-language models across 15,408 assessments with 250-sample human annotation. Developed a three-tier ensemble mitigation framework addressing CheXpert label circularity, low inter-annotator agreement (κ=0.150), and 4-bit quantisation asymmetry.  
+**HalluCXR**  
+A benchmark for evaluating hallucination in vision-language models for chest radiograph interpretation.  
+This project evaluates six VLMs and explores ensemble-based mitigation strategies with human annotation.  
+*Submitted to CVPR 2026 AI4RWC Workshop*  
 → [github.com/haoyu-haoyu/HalluCXR](https://github.com/haoyu-haoyu/HalluCXR)
 
 ---
 
-### ⚙️ Tech Stack
+### Technical Focus
 
-`Python` `TypeScript` `Go` `R` `SQL` `Stata` `PHP` `Shell`  
-`PyTorch` `HuggingFace Transformers` `ClinicalBERT` `XGBoost` `scikit-learn` `spaCy` `Neural ODEs` `Diffusion Models`  
-`MIMIC-III/IV` `FHIR (HL7)` `CheXpert` `OMOP CDM` `SNOMED CT` `MONAI` `DICOM`  
-`Docker` `SLURM/HPC` `GitHub Actions` `MCP Server Development` `VS Code Extensions`
+**Languages**  
+`Python` `R` `SQL` `TypeScript`
+
+**ML / Clinical AI**  
+`PyTorch` `Transformers` `XGBoost` `scikit-learn` `spaCy` `Clinical NLP` `Multimodal Learning`
+
+**Clinical Data / Infrastructure**  
+`MIMIC-III/IV` `OMOP CDM` `FHIR` `SNOMED CT` `DICOM` `Docker` `SLURM/HPC`
 
 ---
 
 <p align="center">
-Actively seeking PhD positions (2026–2027) in Clinical NLP / Health AI / Multimodal EHR<br>
-📫 <a href="mailto:haoyu.7.wang@kcl.ac.uk">haoyu.7.wang@kcl.ac.uk</a> · 🌐 <a href="https://github.com/haoyu-haoyu">github.com/haoyu-haoyu</a>
+Actively seeking PhD opportunities (2026–2027) in Clinical NLP, Health AI, and Multimodal EHR Research.<br>
+📧 <a href="mailto:haoyu.7.wang@kcl.ac.uk">haoyu.7.wang@kcl.ac.uk</a> ·
+🌐 <a href="https://github.com/haoyu-haoyu">GitHub</a>
 </p>
