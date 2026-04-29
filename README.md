@@ -30,7 +30,7 @@ This project evaluates six VLMs and explores ensemble-based mitigation strategie
 `PyTorch` `Transformers` `XGBoost` `scikit-learn` `spaCy`
 
 **Programming**  
-`Python` `R` `SQL` `TypeScript` `Go` `Shell`
+`Python` `R` `SQL` `TypeScript` `Go` `Shell` `C` `C++` 
 
 **Clinical Data & Infrastructure**  
 `MIMIC-III/IV` `OMOP CDM` `FHIR` `DICOM` `Docker` `SLURM/HPC`
