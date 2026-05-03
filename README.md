@@ -16,7 +16,7 @@ This project studies temporal alignment, structured–text fusion, and data leak
 **HalluCXR**  
 A benchmark for evaluating hallucination in vision-language models for chest radiograph interpretation.  
 This project evaluates six VLMs and explores ensemble-based mitigation strategies with human annotation.  
-*Submitted to CVPR 2026 AI4RWC Workshop*  
+* Accepted by CVPR 2026 AI4RWC Workshop*  
 → [github.com/haoyu-haoyu/HalluCXR](https://github.com/haoyu-haoyu/HalluCXR)
 
 ---
