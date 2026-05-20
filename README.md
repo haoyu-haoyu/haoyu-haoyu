@@ -3,21 +3,6 @@
 MSc in Applied Statistical Modelling & Health Informatics at King's College London  
 Research interests: Clinical NLP, multimodal EHR learning, trustworthy health AI, and benchmark design.
 
----
-
-### Research
-
-**TIMELY-Bench**  
-A time-aware clinical benchmark for multimodal ICU prediction using MIMIC-IV.  
-This project studies temporal alignment, structured–text fusion, and data leakage in clinical prediction pipelines, with experiments conducted on KCL CREATE HPC.  
-*Accepted by HealTAC 2026*  
-→ Code repository will be released after publication.
-
-**HalluCXR**  
-A benchmark for evaluating hallucination in vision-language models for chest radiograph interpretation.  
-This project evaluates six VLMs and explores ensemble-based mitigation strategies with human annotation.  
-*Accepted by CVPR 2026 AI4RWC Workshop*  
-→ [github.com/haoyu-haoyu/HalluCXR](https://github.com/haoyu-haoyu/HalluCXR)
 
 ---
 
