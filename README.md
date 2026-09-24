@@ -1,4 +1,4 @@
-## Haoyu Wang (王浩宇)
+## Haoyu Wang
 
 MSc in Applied Statistical Modelling & Health Informatics at King's College London  
 Research interests: Clinical NLP, multimodal EHR learning, trustworthy health AI, and benchmark design.
