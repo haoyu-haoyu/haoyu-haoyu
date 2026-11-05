@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/banner.gif" width="100%" alt="Waves washing up a sandy beach, drawn in ASCII characters">
+</p>
+
 ## Haoyu Wang
 
 MSc in Applied Statistical Modelling & Health Informatics at King's College London  
